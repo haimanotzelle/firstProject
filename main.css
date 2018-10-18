@@ -1,13 +1,19 @@
 body{
     background:violet;
-   color: yellow:
+   color: yellow;
 }
  
 #shalom {
-    font-size: 76Spx;
+    font-family: arial;
+    font-size: 36px;
 }
 
 
 .joseph {
-font-family:
-text-align:
+    font-family: arial;
+    text_align: center;
+}
+
+body{
+    background-color: blue;
+}
